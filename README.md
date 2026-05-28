@@ -1,6 +1,6 @@
 <!-- Profile Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Varunesh;Curious+Developer;Open+Source+Enthusiast;Always+Learning!&center=true&width=490&height=50&color=5B65FF&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Varunesh;Curious+Developer;Amateur+Tech+Enthusiast;Always+Learning!&center=true&width=490&height=50&color=5B65FF&vCenter=true" alt="Typing SVG" />
 </p>
 
 <!-- About Me Card -->
@@ -10,9 +10,9 @@
 
 <div align="center">
 
-💡 Curious developer passionate about solving real-world problems using tech.<br>
+💡 Beginner/amateur developer exploring real-world problems using tech.<br>
 ⚡️ Areas I explore: <b>Automation, Analytics, System Design, Full-stack Development</b>.<br>
-💬 Open source advocate | Always open to collaboration and new challenges.<br>
+💬 Always open to learning, collaboration, and new challenges.<br>
 
 </div>
 
@@ -75,7 +75,6 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-5B65FF?logo=linkedin&labelColor=9B59B6&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <!-- Add more social links if you want -->
 </p>
 
 <!-- You can add 'Currently Learning', 'Goals', etc. as cards/tags if you wish! -->
