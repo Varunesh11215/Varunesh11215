@@ -24,10 +24,8 @@
 
 ## 👋 Hey, I'm Varunesh
 
-💡 Beginner/amateur developer exploring real-world problems using tech.  
-⚡️ Areas I explore: **Automation, Analytics, System Design, Full-stack Development**.  
-💬 Always open to learning, collaboration, and new challenges.  
-🌱 Currently focused on automating things and building up DSA skills!
+💻 Developer interested in automation, full-stack development, and problem solving.
+🌱 Currently learning DSA and building projects.
 
 ---
 
