@@ -81,7 +81,6 @@
 ### ✨ Fun Facts
 
 - 🎹 Enjoys music while coding or working alone at night
-- ☕️ Runs on coffee and curiosity, just like any dev!
 - 🧩 Loves a good puzzle or a fresh DSA challenge
 
 ---
