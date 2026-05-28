@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5B65FF,50:7B87FA,100:9B59B6&height=220&section=header&text=Varunesh&fontSize=58&fontAlignY=35&animation=fadeIn" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5B65FF,50:7B87FA,100:9B59B6&height=220&section=header&text=Varunesh&fontSize=58&fontAlignY=35&animation=fadeIn" alt="Varunesh Header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Varunesh;Curious+Developer;Amateur+Tech+Enthusiast;Always+Learning!&center=true&width=700&height=45&color=9B59B6&vCenter=true" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Varunesh;Curious+Developer;Amateur+Tech+Enthusiast;Always+Learning!&center=true&width=700&height=45&color=9B59B6&vCenter=true" alt="Typing Animation"/>
 
 <!-- ✦ SOCIAL BADGES ✦ -->
 <br/>
@@ -85,6 +85,6 @@
 
 ---
 
-*Want to collab or just chat tech? Reach out!*
+*🚀 Open to collaborate on projects related to automation, analytics, system design, and full-stack development. Whether you're starting something new or need an extra pair of hands on an existing project, feel free to reach out via GitHub or LinkedIn!*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,50:7B87FA,100:5B65FF&height=120&section=footer&animation=fadeIn" alt="Footer" />
