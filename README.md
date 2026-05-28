@@ -70,7 +70,7 @@
 ### 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/varunesh-b-57428528a/>
     <img src="https://img.shields.io/badge/LinkedIn-5B65FF?logo=linkedin&labelColor=9B59B6&style=for-the-badge" alt="LinkedIn"/>
   </a>
 </div>
