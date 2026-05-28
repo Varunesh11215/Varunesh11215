@@ -21,18 +21,28 @@
   *Practicing data structures and algorithms, Java.*
 
 ## 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5B65FF?style=flat&logo=python&logoColor=9B59B6)
+![Java](https://img.shields.io/badge/Java-9B59B6?style=flat&logo=java&logoColor=5B65FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-5B65FF?style=flat&logo=javascript&logoColor=9B59B6)
+![HTML](https://img.shields.io/badge/HTML5-9B59B6?style=flat&logo=html5&logoColor=5B65FF)
 <!-- Add new languages as you learn them! -->
 
 ## 📈 GitHub Stats  
-![Varunesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varunesh11215&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunesh11215&layout=compact&theme=radical)
+![Varunesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varunesh11215&show_icons=true&theme=ayu-mirage)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunesh11215&layout=compact&theme=ayu-mirage)
+
+## 🐍 Contribution Snake
+
+![github-contribution-grid-snake](https://github.com/Varunesh11215/Varunesh11215/blob/output/github-contribution-grid-snake.svg)
 
 ## 🤝 Let's Connect!
 *Open to collaboration, new projects, and discussion!*
+
+## 🔗 Find me on LinkedIn
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-5B65FF?logo=linkedin&labelColor=9B59B6&style=for-the-badge" alt="LinkedIn"/>
+</a>
 
 ---
 
